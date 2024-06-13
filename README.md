@@ -1,7 +1,4 @@
 # project-1
-# Project-1---Analyze-Daily-Weather
-
-
 To analyze daily weather data using a small dataset of daily weather information, you will need to follow these steps:
 
 Data Collection: Obtain a dataset of daily weather information. This can be done by downloading a sample weather dataset from websites like Kaggle or UCI Machine Learning Repository.
